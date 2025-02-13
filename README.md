@@ -33,4 +33,11 @@
 - NUnit - фреймворк для тестирования
 
 
+## Стартовое окно
 
+<img src="./Images/running app.jpg" alt="Стартовое окно" width="300"/>
+
+
+## Схема базы данных
+
+<img src="./Images/tables.png" alt="Таблицы базы данных" width="700"/>
